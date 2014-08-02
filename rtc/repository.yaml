@@ -1,0 +1,8 @@
+JoystickToVelocity: {description: '', git: 'https://github.com/sugarsweetrobotics/JoystickToVelocity.git',
+  hash: c75f85c65da0277ff529c40d53bbe7a81da2ddaf}
+MobileRobotKinematics: {description: '', git: 'https://github.com/sugarsweetrobotics/MobileRobotKinematics.git',
+  hash: 2ba9960a786b11d80ca7637bb915fa48efc504b2}
+SimulationManager: {description: '', git: 'https://github.com/ogata-lab/SimulationManager.git',
+  hash: 94c58739580ed8806467d448f15a77267e8c3e19}
+VirtualJoystick: {description: '', git: 'https://github.com/sugarsweetrobotics/VirtualJoystick.git',
+  hash: e6f888d26256c7b300078eb73fa6ce0ac162f9a4}
